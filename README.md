@@ -74,4 +74,4 @@ Si tienes el host de prueba `VSTPluginTester/` (host JUCE) en tu workspace, comp
 
 ## Licencia
 
-Código del proyecto: uso libre para aprendizaje/modificación. JUCE se descarga de su repositorio oficial y tiene su propia licencia.
+MIT (ver `LICENSE`). JUCE se descarga de su repositorio oficial y tiene su propia licencia: revisa sus términos antes de distribuir el plugin.

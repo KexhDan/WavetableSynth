@@ -1,0 +1,14 @@
+# CMake / artefactos de compilación
+build/
+build-*/
+out/
+CMakeUserPresets.json
+
+# IDE / editores
+.vs/
+.vscode/
+*.user
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
