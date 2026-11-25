@@ -71,7 +71,6 @@ public:
     const juce::String getName() const override                  { return "Dual Wavetable Synth"; }
     bool acceptsMidi() const override                            { return true; }
     bool producesMidi() const override                           { return false; }
-    bool supportsMidiProgramChange() const override              { return false; }
     double getTailLengthSeconds() const override                 { return 0.0; }
 
     int getNumPrograms() override                                { return 1; }
